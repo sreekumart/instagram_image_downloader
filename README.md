@@ -1,15 +1,15 @@
 # instagram_image_downloader
 This is python script to download the images from instagram.
 
-Usage:
- 1.Go to instagram page of the picture you intent to download.
- 2.get the html page source of that html page.
- 3.copy the html contents to a file and save it.
- 4.run the script and enter the path of the file created as input when prompted.
+<b>Usage</b>:<br/>
+ 1. Go to instagram page of the picture you intent to download.<br />
+ 2. Get the html page source of that html page<br />
+ 3. Copy the html contents to a file and save it.<br />
+ 4. Run the script and enter the path of the file created as input when prompted.<br />
  
- Improvements:
- 1.Modify script to get the content downloaded by passing the URL as input.
- 2.Add video download feature.
+ <b>Improvements</b> : <br />
+ 1. Modify script to get the content downloaded by passing the URL as input.<br />
+ 2. Add video download feature. <br>
  
  
 
