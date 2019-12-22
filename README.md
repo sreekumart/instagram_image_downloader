@@ -11,5 +11,6 @@ This is a python script to download the images from instagram.
  1. Modify the script to get the content downloaded by passing the URL as input.<br />
  2. Add video download feature. <br>
  
- 
-
+ <b>Requirement</b> : <br/>
+  python 3
+  requests module
